@@ -1,0 +1,6 @@
+{
+  "name": "Bank Statement OCR System",
+  "description": "An AI-powered Bank Statement OCR System that automatically extracts, normalizes, and categorizes transaction data from PDF and image files, with search, filtering, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
